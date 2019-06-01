@@ -1,2 +1,2 @@
 # jenkins
-Calcucator
+Calculator
